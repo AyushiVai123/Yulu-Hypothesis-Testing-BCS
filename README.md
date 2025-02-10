@@ -23,25 +23,25 @@ informed adjustments to regain profitability.
 
 📃 Features of the dataset:
 
-- datetime: datetime
-- season: season (1: spring, 2: summer, 3: fall, 4: winter)
-- holiday : whether day is a holiday or not
-- workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
-- weather:
+1) datetime: datetime
+2) season: season (1: spring, 2: summer, 3: fall, 4: winter)
+3) holiday : whether day is a holiday or not
+4) workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
+5)  weather:
 
-1: Clear, Few clouds, partly cloudy
+- Clear, Few clouds, partly cloudy
 
-2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
+- Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
 
-3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain +
+- Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain +
    Scattered clouds
 
-4: Heavy Rain + Ice Pellets + Thunderstorm + Mist, Snow + Fog
+- Heavy Rain + Ice Pellets + Thunderstorm + Mist, Snow + Fog
 
-- temp: temperature in Celsius
-- atemp: feeling temperature in Celsius
-- humidity: humidity
-- windspeed: wind speed
-- casual: count of casual users
-- registered: count of registered users
-- count: count of total rental bikes including both casual and registere
+6) temp: temperature in Celsius
+7) atemp: feeling temperature in Celsius
+8) humidity: humidity
+9) windspeed: wind speed
+10) casual: count of casual users
+11) registered: count of registered users
+12) count: count of total rental bikes including both casual and registere
